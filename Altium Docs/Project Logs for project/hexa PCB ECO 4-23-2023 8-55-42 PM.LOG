@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Neti/p power 1_2 Pin=K1-11
+Removed Pin From Net: NetName=Neti/p power 1_2 Pin=K1-11
+Removed Pin From Net: NetName=Neti/p power 1_1 Pin=K1-14
+Removed Pin From Net: NetName=Neti/p power 1_1 Pin=K1-14
+Removed Pin From Net: NetName=NetD1_1 Pin=K1-A1
+Removed Pin From Net: NetName=5v Pin=K1-A2
+Removed Member From Class: ClassName=hexa Member=K1
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S1-3
+Add Pin To Net: Unknown Pin: Pin S1-4
+Add Class Member: Failed to add class member : Component S1 Single-Pole, Single-Throw Normally Opened Relay

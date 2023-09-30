@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=Neti/p power 1_2 Pin=K1-11
+Removed Pin From Net: NetName=Neti/p power 1_2 Pin=K1-11
+Removed Pin From Net: NetName=Neti/p power 1_1 Pin=K1-14
+Removed Pin From Net: NetName=Neti/p power 1_1 Pin=K1-14
+Removed Pin From Net: NetName=NetD1_1 Pin=K1-A1
+Removed Pin From Net: NetName=5v Pin=K1-A2
+Added Component: Designator=K1(FP-JW1FSN-B-DC24V-MFG)
+Add component (AddParameter): Name = "Coil Current"; Value = "22mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "530mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "1.1kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Type"; Value = "Non-Latching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "12.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "20mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "28.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operate Time"; Value = "15ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Consumption"; Value = "530mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "530mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Relay Function"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Relay Type"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "5ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "JW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "13g"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "12.8mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Neti/p power 1_1 Pin=K1-2
+Added Pin To Net: NetName=NetD1_1 Pin=K1-3
+Added Pin To Net: NetName=Neti/p power 1_2 Pin=K1-4
+Added Pin To Net: NetName=5v Pin=K1-5
+Added Member To Class: ClassName=hexa Member=Component K1 JW1FSN-B-DC24V
